@@ -5,6 +5,7 @@
 		"activityBarBadge.background": "#2f70f4",
 		"button.background": "#2f70f4",
 		"button.foreground": "#1f2430",
+		"button.hoverBackground": "#75a3ff",
 		"editor.foreground": "#cbe9e9",
 		"editor.background": "#232834",
 		"focusBorder": "#505867",
