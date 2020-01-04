@@ -33,6 +33,7 @@
 		"scrollbarSlider.activeBackground": "#707a8cb3",
 		"selection.background": "#2f71f4",
 		"sideBarTitle.foreground": "#e4e7e7",
+		"progressBar.background": "#2f70f4",
 		"textPreformat.foreground": "#e4e7e7",
 		"textBlockQuote.background": "#232834",
 		"textLink.foreground": "#2f70f4",
