@@ -2,7 +2,11 @@
 	"name": "night blue theme",
 	"type": "dark",
 	"colors": {
+		"activityBar.background": "#1f2430",
+		"activityBar.foreground": "#6a8ddd",
+		"activityBar.activeBorder": "#2f70f4",
 		"activityBarBadge.background": "#2f70f4",
+		"activityBarBadge.foreground": "#1f2430",
 		"badge.background": "#2f70f4",
 		"badge.foreground": "#1f2430",
 		"button.background": "#2f70f4",
