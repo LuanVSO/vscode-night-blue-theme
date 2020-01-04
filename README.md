@@ -1,3 +1,4 @@
+# vscode-night-blue-theme 
 # README
 ## This is the README for your extension "night-blue-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
@@ -11,4 +12,4 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
-# night-blue-theme 
+
