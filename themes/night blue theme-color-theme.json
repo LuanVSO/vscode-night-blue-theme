@@ -3,6 +3,8 @@
 	"type": "dark",
 	"colors": {
 		"activityBarBadge.background": "#2f70f4",
+		"badge.background": "#2f70f4",
+		"badge.foreground": "#1f2430",
 		"button.background": "#2f70f4",
 		"button.foreground": "#1f2430",
 		"button.hoverBackground": "#75a3ff",
