@@ -1,0 +1,21 @@
+{
+    "name": "night-blue-theme",
+    "displayName": "night blue theme",
+    "description": "a dark theme with blue highlights with support for c",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "night blue theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/night blue theme-color-theme.json"
+            }
+        ]
+    }
+}
