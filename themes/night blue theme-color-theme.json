@@ -7,9 +7,15 @@
 		"button.foreground": "#1f2430",
 		"editor.foreground": "#cbe9e9",
 		"editor.background": "#232834",
-		"editor.foreground": "#cbe9e9",
-		"activityBarBadge.background": "#2f70f4",
-		"sideBarTitle.foreground": "#afc4c5"
+		"focusBorder": "#505867",
+		"foreground": "#cbe9e9",
+		"selection.background": "#2f71f4",
+		"sideBarTitle.foreground": "#afc4c5",
+		"textPreformat.foreground": "#cbe9e9",
+		"textBlockQuote.background": "#232834",
+		"textLink.foreground": "#2f70f4",
+		"textLink.activeForeground": "#75a3ff",
+		"widget.shadow": "#141925",
 	},
 	"tokenColors": [
 		{
