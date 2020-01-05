@@ -142,6 +142,11 @@
 		"textBlockQuote.background": "#232834",
 		"textLink.foreground": "#2f70f4",
 		"textLink.activeForeground": "#75a3ff",
+		"titleBar.activeBackground": "#1f2430",
+		"titleBar.activeForeground": "#e4e7e7",
+		"titleBar.inactiveBackground": "#1f2430",
+		"titleBar.inactiveForeground": "#707a8c",
+		"titleBar.border": "#191e2a",
 		"widget.shadow": "#141925",
 	},
 	"tokenColors": [
