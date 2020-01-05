@@ -153,6 +153,7 @@
 		"titleBar.inactiveBackground": "#1f2430",
 		"titleBar.inactiveForeground": "#707a8c",
 		"titleBar.border": "#191e2a",
+		"walkThrough.embeddedEditorBackground": "#232834",
 		"widget.shadow": "#141925",
 	},
 	"tokenColors": [
