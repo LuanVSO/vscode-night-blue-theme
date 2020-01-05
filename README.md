@@ -1,12 +1,15 @@
 # vscode-night-blue-theme 
-# README
-## This is the README for your extension "night-blue-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+this is a vscode color theme inspired by [vscode-ayu](https://github.com/ayu-theme/vscode-ayu) and [vscode-one-dark](https://github.com/akamud/vscode-theme-onedark)
 
+***
 
+## tested languages:
+- C
+- C++
+- Markdown
+***
+## What's new?
+Click here to go to the [Changelog](https://github.com/LuanVSO/vscode-night-blue-theme/blob/master/CHANGELOG.md)
 **Enjoy!**
 
