@@ -3,12 +3,24 @@
     "displayName": "night blue theme",
     "description": "a dark theme with blue highlights with support for c",
     "version": "0.1.0",
+    "publisher": "LuanVSO",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LuanVSO/vscode-night-blue-theme"
+    },
     "engines": {
         "vscode": "^1.41.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "dark",
+        "night",
+        "theme",
+        "blue"
+    ],
+    "homepage": "https://github.com/LuanVSO/vscode-night-blue-theme",
     "contributes": {
         "themes": [
             {
@@ -17,5 +29,9 @@
                 "path": "./themes/night blue theme-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
     }
 }
