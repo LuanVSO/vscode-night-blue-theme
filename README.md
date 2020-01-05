@@ -3,6 +3,7 @@
 
 this is a vscode color theme inspired by [vscode-ayu](https://github.com/ayu-theme/vscode-ayu) and [vscode-one-dark](https://github.com/akamud/vscode-theme-onedark)
 
+![screenshot](assets/screenshot.jpg)
 ***
 
 ## tested languages:
