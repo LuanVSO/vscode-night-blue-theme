@@ -2,7 +2,7 @@
     "name": "night-blue-theme",
     "displayName": "night blue theme",
     "description": "a dark theme with blue highlights with support for c",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.41.0"
     },
