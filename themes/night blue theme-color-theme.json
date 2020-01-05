@@ -79,7 +79,7 @@
 		"gitDecoration.deletedResourceForeground": "#f27983b3",
 		"gitDecoration.untrackedResourceForeground": "#a6cc70b3",
 		"gitDecoration.ignoredResourceForeground": "#484f5e",
-		"gitDecoration.conflictingResourceForeground": "",
+		"gitDecoration.conflictingResourceForeground": "#e94040",
 		"gitDecoration.submoduleResourceForeground": "#d4bfffb3",
 		"input.background": "#232834",
 		"input.border": "#373e4c",
@@ -645,7 +645,7 @@
 				"meta.separator"
 			],
 			"settings": {
-				"background": "#373B41",
+				//"background": "#373B41",
 				"foreground": "#ABB2BF"
 			}
 		},
@@ -664,7 +664,7 @@
 				"underline"
 			],
 			"settings": {
-				"text-decoration": "underline"
+				"fontStyle": "underline"
 			}
 		},
 		{
@@ -683,7 +683,7 @@
 			],
 			"settings": {
 				"foreground": "#523D14",
-				"background": "#E0C285"
+				//"background": "#E0C285"
 			}
 		},
 		{
@@ -692,8 +692,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "white",
-				"background": "#E05252"
+				//"foreground": "",
+				//"background": "#E05252"
 			}
 		},
 		{
@@ -841,7 +841,7 @@
 				"source.gfm markup"
 			],
 			"settings": {
-				"-webkit-font-smoothing": "auto"
+				//"-webkit-font-smoothing": "auto"
 			}
 		},
 		{
@@ -986,7 +986,7 @@
 				"source.ruby constant.other.symbol > punctuation"
 			],
 			"settings": {
-				"foreground": "inherit"
+				//"foreground": "inherit"
 			}
 		},
 		{
