@@ -120,6 +120,8 @@
 		"panelTitle.activeBorder": "#2f70f4",
 		"panelTitle.activeForeground": "#cbccc6",
 		"panelTitle.inactiveForeground": "#e4e7e7",
+		"settings.headerForeground": "#e4e7e7",
+		"settings.modifiedItemIndicator": "#75a3ff",
 		"scrollbar.shadow": "#141925",
 		"scrollbarSlider.background": "#2c3741",
 		"scrollbarSlider.hoverBackground": "#485c5f",
