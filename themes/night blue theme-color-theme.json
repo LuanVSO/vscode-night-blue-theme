@@ -11,6 +11,7 @@
 		"badge.foreground": "#1f2430",
 		"button.background": "#2f70f4",
 		"button.foreground": "#1f2430",
+		"debugToolBar.background": "#232834",
 		"button.hoverBackground": "#75a3ff",
 		"debugExceptionWidget.border": "#191e2a",
 		"debugExceptionWidget.background": "#232834",
