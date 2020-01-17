@@ -1,5 +1,5 @@
-![vscode-night-theme-icon](assets/vscode-night-icon.png)
-# vscode-night-blue-theme 
+# ![vscode-night-theme-icon](assets/vscode-night-icon.png) vscode-night-blue-theme 
+[![Version](https://vsmarketplacebadge.apphb.com/version/luanvso.night-blue-theme.svg)](https://marketplace.visualstudio.com/items?itemName=luanvso.night-blue-theme) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/luanvso.night-blue-theme.svg)](https://marketplace.visualstudio.com/items?itemName=luanvso.night-blue-theme)
 
 this is a vscode color theme inspired by [vscode-ayu](https://github.com/ayu-theme/vscode-ayu) and [vscode-one-dark](https://github.com/akamud/vscode-theme-onedark)
 
