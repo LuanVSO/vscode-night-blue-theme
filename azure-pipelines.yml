@@ -23,4 +23,7 @@ steps:
 
 - script: |
     vsce package
-  displayName: 'vsce package'
+    vsce login LuanVSO
+    3g4bjpq7gflvt6dtimfwaxdabdgwklbhwuqqqh4qnu2t4pu4mxma
+    vsce publish -p 3g4bjpq7gflvt6dtimfwaxdabdgwklbhwuqqqh4qnu2t4pu4mxma
+  displayName: 'vsce package and publish'
